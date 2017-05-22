@@ -1,0 +1,23 @@
+---
+id: speee-cafe-meetup-07
+base_name: lets-join-oss-development
+tags:
+- rabbit
+- oss
+- oss_gate
+presentation_date: 2017-05-23
+version: 2017.5.23.0
+licenses:
+- CC-BY-SA-4.0
+slideshare_id: 
+speaker_deck_id: 
+ustream_id: 
+vimeo_id: 
+youtube_id: 
+author:
+  markup_language: :rd
+  name: 須藤功平
+  email: kou@clear-code.com
+  rubygems_user: kou
+  slideshare_user: kou
+  speaker_deck_user: 
