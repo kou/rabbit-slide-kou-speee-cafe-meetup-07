@@ -153,17 +153,26 @@ https://oss-gate.github.io/
   * 5月27日（土）\n
     OSS Gate東京ワークショップ\n
     (('note:https://oss-gate.doorkeeper.jp/events/59202'))
-  * 次は2ヶ月後！\n
+  * ↑の次は2ヶ月後！\n
     興味がある人は今週末の回に\n
     参加するといいよ！
 
-= 企業向け
+= 企業でOSS開発に取組たい！
 
-  * OSS Gateの活動
-    * ほぼ 業務時間外
+  * OSS Gateのイベント
+    * 企業での研修（？）には向かない
+    * ほぼ業務時間外の開催だから
+    * 社内で参考情報として告知はアリ！\n
+      (('note:（興味のある人は業務時間外に行ってきてね）'))
+  * 企業向けの支援サービスあり
+    * 業務時間内に提供
+    * 研修・開発力向上にも使える
+
+= 企業向け支援サービス
+
   * OSS開発支援サービス
     * クリアコード提供
-    * Speeeさんも利用\n
+  * 利用事例
+    * Speeeさん\n
       (('note:OSS開発支援サービス事例：SpeeeさんのWebapp Revieee'))\n
       (('note:http://www.clear-code.com/blog/2017/5/17.html'))
-
